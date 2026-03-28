@@ -38,11 +38,3 @@ vite.config.ts.timestamp-*
 
 # Coverage
 coverage/
-
-# Cache
-.cache/
-.parcel-cache/
-.eslintcache
-
-# TypeScript
-*.tsbuildinfo
